@@ -1,0 +1,5 @@
+C:\Users\Labhdeep\Desktop\FOLDERS\BoscDeLaComa\POO\JOCS\apks\codis\dragons\.mono\temp\bin\Debug\Dragons.dll
+C:\Users\Labhdeep\Desktop\FOLDERS\BoscDeLaComa\POO\JOCS\apks\codis\dragons\.mono\temp\bin\Debug\Dragons.pdb
+C:\Users\Labhdeep\Desktop\FOLDERS\BoscDeLaComa\POO\JOCS\apks\codis\dragons\.mono\temp\obj\Debug\Dragons.csprojAssemblyReference.cache
+C:\Users\Labhdeep\Desktop\FOLDERS\BoscDeLaComa\POO\JOCS\apks\codis\dragons\.mono\temp\obj\Debug\Dragons.dll
+C:\Users\Labhdeep\Desktop\FOLDERS\BoscDeLaComa\POO\JOCS\apks\codis\dragons\.mono\temp\obj\Debug\Dragons.pdb
